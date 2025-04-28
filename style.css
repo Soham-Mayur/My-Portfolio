@@ -1,0 +1,33 @@
+body{
+    line-height: 1.6;
+    margin: 0;
+    padding:0;
+    font-family:Arial, sans-serif;
+}
+
+header{
+    background: #333;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+section{
+    padding: 20px;
+}
+
+#about img{
+    max-width: 150px;
+    border-radius:50%;
+}
+
+ul{
+    list-style-type: none;
+    padding:0;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background: #f4f4f4;
+}
